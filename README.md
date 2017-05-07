@@ -17,7 +17,7 @@ One of the reasons I decided to learn code from Makers Academy was because I tho
 
 #### Inquisitive
 
-I am constantly asking questions and passionate in understanding everything there in a certain situations.  Whether that be how the body copes at high altitudes, such as in my thesis project or why a particular piece of code works or not.
+I am constantly asking questions and passionate in understanding every detail in a certain situation, whether that be how the body copes at high altitudes; such as in my thesis project, or why a particular piece of code works or not.
 
 #### Time-keeping
 
@@ -42,21 +42,20 @@ I therefore had to be very efficient with my time to make sure no one was neglec
 - Grade 2:1
 - Gained cellular through to whole body theoretical and practical understanding of muscular, cardiovascular and respiratory systems of the body, including when the body is exposed to extreme environments such as underwater, in aviation, military and in microgravity space environments.
 
-- Acquired invaluable experience working in laboratories and critical statistical modes of analysis in order to help me create graphs and draw conclusions to my data and present them in report format and in presentations to my peers and professors.
+- Acquired invaluable experience working in laboratories and critical statistical modes of analysis in order to help me represent my data in graphically, draw conclusions and present them in report format and in presentations to my peers and professors.
 
 
 #### University of Manchester (September 2009 to July 2012)
 
 - BSc(Hons) Anatomical Sciences
 - Grade 2:1
-- Dissected cadavers
 
 #### Graveney School (September 2007 to July 2009)
 
 - Biology [B], Chemistry [B], Mathematics [B], and Spanish [A]
 
 #### Streatham & Clapham High School (September 2002 to July 2007)
-- GCSE's [7A*, 5A 1B] including ICT, English, Mathematics and Sciences.
+- GCSE's [7A*, 5A & 1B] including ICT, English, Mathematics and Sciences.
 
 ## Experience
 
@@ -66,14 +65,13 @@ I therefore had to be very efficient with my time to make sure no one was neglec
 - Provided extensive training, demonstrating and positioning of BT cloud voice (powered by Broadsoft) to BT businesses, ICT specialists and end users to enable a greater understanding of the features and functionality as well as propositioning Unified Communications as a Service (UCaaS).  
 - Gave strategy online webinars with Q & A’s, as well as onsite training working directly with sales managers and specialists
 - Drove channel motivation for Broadsoft products.  
-Report weekly on key revenue metrics on Salesforce and execute action plans set by directors to ensure a constant strong pipeline.
+Reported weekly on key revenue metrics on Salesforce and executed action plans set by directors to ensure a constant strong pipeline.
 
 **Achievements**
 
 - ‘Single largest channel sales order award 2015’:
 Awarded opportunity to attend ‘Cloud Connections’ technology week in Arizona and first non-exec to personally receive honour.
-- Selected as UK graduate representative to France
-Partook in talent scouting in new intake for Broadsoft (France), where I advised on model behaviours and skills required.
+- Selected as UK graduate representative to France and partook in talent scouting in new intake for Broadsoft (France), where I advised on model behaviours and skills required.
 
 **iD staffing** (November 2012 to September 2013)   
 *Sales Rep & Brand Ambassador*
@@ -83,6 +81,6 @@ Partook in talent scouting in new intake for Broadsoft (France), where I advised
 ## Interests
 
 - During the Winter months I volunteer with GlassDoor in a homeless shelter.
-- Training for the next London Marathon and raising money for London Youth.  I regularly do 10 km runs and am part of the Midnight Runners team, where we dress in neon at night with music blasting from speakers all around central London.
+- Training for the London Marathon 2018 and raising money for London Youth.  I regularly do 10 km runs and am part of the Midnight Runners team, where we dress in neon at night with music blasting from speakers all around central London.
 - I've been fortunate enough to backpack 32 countries in 4 continents and absolutely love travelling.  
 - Fluent English and Spanish, moderate German and a little Greek.
