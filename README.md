@@ -10,6 +10,12 @@ I would love to use my newly found skills after [Makers Academy](http://www.make
 
 ## Projects
 
+Project                                                               | Description   | Technology
+-------------                                                         | ------------- |----------
+[Remember All](https://github.com/jjadeseravla/RememberAll)           |   Mobile app allowing you to remember anything you want to about people you meet |React Native, Jest/Chai/Cavy, Realm DB, XCode
+[rps-challenge](https://github.com/jjadeseravla/rps-challenge)        | Classic rock, paper scissors game  |Ruby, Rspec/Capybara
+[Rapper-Thermostat](https://github.com/jjadeseravla/Rapper-Thermostat)| Thermostat where user can change the temperature and receive warnings by well known rappers if it goes too low or high | JavaScriptm jQuery, Jasmine, Node, HTML / CSS
+
 For a complete list, see my [GitHub](https://github.com/jjadeseravla)
 
 ## Skills
@@ -41,44 +47,36 @@ Fluent English and Spanish, moderate German and a little Greek.
 
 *10th April 2017 to 28th July 2017 / 16 week programming bootcamp / 10% acceptance rate*
 
-- Object Orientated Design
-- Test Driven Development
-- Pair Programming
-- Software Craftsmanship
-- Agile Methodologies
+- Curiosity for technology and passionate for code and learning
+- Pair Programmer and problem-solver
+- Object Orientated Design and Test Driven Development
+- Software Craftsmanship and Agile Methodologies
 - Ruby, Rails, Sinatra, JavaScript, Node.js, React.js, React Native, Bootstrap, jQuery, HTML, CSS
 - PostgreSQL, Realm
-- Rspec, Jasmine, Jest, Enzyme, Chai, Cavy testing systems
+- Rspec, Jasmine, Jest, Enzyme, Capybara, Chai, Cavy testing systems
 
 #### Kings College University
-
 *September 2013 to January 2015*
 
 - MSc(Hons) Human & Applied Physiology
-
 - Grade 2:1
 
 - Gained cellular through to whole body theoretical and practical understanding of muscular, cardiovascular and respiratory systems of the body
-
 - Acquired invaluable experience working in laboratories and critical statistical modes of analysis.
 
 
 #### University of Manchester
-
 *September 2009 to July 2012*
 
 - BSc(Hons) Anatomical Sciences
-
 - Grade 2:1
 
 #### Graveney School
-
 *September 2007 to July 2009*
 
 - Biology [B], Chemistry [B], Mathematics [B], and Spanish [A]
 
 #### Streatham & Clapham High School
-
 *September 2002 to July 2007*
 
 - GCSE's [7A*, 5A & 1B] including ICT, English, Mathematics and Sciences.
@@ -89,16 +87,13 @@ Fluent English and Spanish, moderate German and a little Greek.
 *Channel Account Manager*  
 
 - Positioning of BT cloud voice (powered by Broadsoft) to BT businesses, ICT specialists and end users as well as propositioning Unified Communications as a Service (UCaaS)
-
 - Gave strategy online webinars with Q & A’s, as well as onsite training working directly with the Managing Directors
-
 - Reported weekly on key revenue metrics on Salesforce and executed action plans set by directors to ensure a constant strong pipeline
 
 **Achievements**
 
 - ‘Single largest channel sales order award 2015’:
 Awarded opportunity to attend ‘Cloud Connections’ technology week in Arizona and first non-exec to personally receive honour
-
 - Selected as UK graduate representative to France and partook in talent scouting in new intake for Broadsoft (France)
 
 **iD staffing** (November 2012 to September 2013)   
@@ -110,6 +105,6 @@ Awarded opportunity to attend ‘Cloud Connections’ technology week in Arizona
 
 - **Running**: Training for the London Marathon 2018 and raising money for London Youth and part of the Midnight Runners team, where we dress in neon at night with music blasting from speakers all around central London
 
-- **Music**: I sing in a coverband for weddings and functions
+- **Music**: I sing anything and everything in a coverband for weddings and functions
 
-- **Travelling**: I've been fortunate enough to backpack 32 countries in 4 continent and absolutely love travel
+- **Travelling**: I've been fortunate enough to backpack and adventure through 32 countries in 4 continents and absolutely love travel
