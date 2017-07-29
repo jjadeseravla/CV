@@ -47,7 +47,7 @@ Fluent English and Spanish, moderate German and a little Greek.
 
 - Curiosity for technology and passionate for code and learning
 - Pair Programmer and problem-solver
-- Object Orientated Design and Test Driven Development
+- Object Oriented Design and Test Driven Development
 - Software Craftsmanship and Agile Methodologies
 - Ruby, Rails, Sinatra, JavaScript, Node.js, React.js, React Native, Bootstrap, jQuery, HTML, CSS
 - PostgreSQL, Realm
