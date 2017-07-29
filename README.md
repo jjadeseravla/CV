@@ -1,6 +1,6 @@
 ## Jade Alvares
 
-[Projects](#Projects) |
+[LinkedIn](https://www.linkedin.com/in/jade-alvares-3b5a4892/)| [Projects](#Projects) |
 [Skills](#Skills) |  [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
 I am a Full-Stack Junior Developer and have always been interested in how things work.  This led me to pursue a degree and masters in biological sciences as I was fascinated by why and how the body functioned.  I was always the person asking a lot of questions and this didn't change when I worked in IT & Telecoms, where I became very interested in how the applications were made and how they worked.
