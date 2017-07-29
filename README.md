@@ -43,9 +43,7 @@ Fluent English and Spanish, moderate German and a little Greek.
 
 ## Education
 
-#### Makers Academy
-
-*10th April 2017 to 28th July 2017 / 16 week programming bootcamp / 10% acceptance rate*
+**Makers Academy** (10th April 2017 to 28th July 2017 /16 week programming bootcamp / 10% acceptance rate)
 
 - Curiosity for technology and passionate for code and learning
 - Pair Programmer and problem-solver
@@ -55,8 +53,7 @@ Fluent English and Spanish, moderate German and a little Greek.
 - PostgreSQL, Realm
 - Rspec, Jasmine, Jest, Enzyme, Capybara, Chai, Cavy testing systems
 
-#### Kings College University
-*September 2013 to January 2015*
+**Kings College University** (September 2013 to January 2015)
 
 - MSc(Hons) Human & Applied Physiology
 - Grade 2:1
@@ -65,19 +62,16 @@ Fluent English and Spanish, moderate German and a little Greek.
 - Acquired invaluable experience working in laboratories and critical statistical modes of analysis.
 
 
-#### University of Manchester
-*September 2009 to July 2012*
+**University of Manchester** (September 2009 to July 2012)
 
 - BSc(Hons) Anatomical Sciences
 - Grade 2:1
 
-#### Graveney School
-*September 2007 to July 2009*
+**Graveney School** (September 2007 to July 2009)
 
 - Biology [B], Chemistry [B], Mathematics [B], and Spanish [A]
 
-#### Streatham & Clapham High School
-*September 2002 to July 2007*
+**Streatham & Clapham High School** (September 2002 to July 2007)
 
 - GCSE's [7A*, 5A & 1B] including ICT, English, Mathematics and Sciences.
 
