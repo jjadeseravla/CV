@@ -14,7 +14,7 @@ Project                                                               | Descript
 -------------                                                         | ------------- |----------
 [Remember All](https://github.com/jjadeseravla/RememberAll)           |   Mobile app allowing you to remember anything you want to about people you meet |React Native, Jest/Chai/Cavy, Realm DB, XCode
 [rps-challenge](https://github.com/jjadeseravla/rps-challenge)        | Classic rock, paper scissors game  |Ruby, Rspec/Capybara
-[Rapper-Thermostat](https://github.com/jjadeseravla/Rapper-Thermostat)| Thermostat where user can change the temperature and receive warnings by well known rappers if it goes too low or high | JavaScriptm jQuery, Jasmine, Node, HTML / CSS
+[Rapper-Thermostat](https://github.com/jjadeseravla/Rapper-Thermostat)| Thermostat where user can change the temperature and receive warnings by well known rappers if it goes too low or high | JavaScript, jQuery, Jasmine, Node, HTML / CSS
 
 For a complete list, see my [GitHub](https://github.com/jjadeseravla)
 
