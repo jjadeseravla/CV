@@ -3,10 +3,10 @@
 [LinkedIn](https://www.linkedin.com/in/jade-alvares-3b5a4892/)| [Projects](#Projects) |
 [Skills](#Skills) |  [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
-I am a Full-Stack Junior Developer and have always been interested in how things work.  This led me to pursue a degree and masters in biological sciences as I was fascinated by why and how the body functioned.  I was always the person asking a lot of questions and this didn't change when I worked in IT & Telecoms, where I became very interested in how the applications were made and how they worked.
+I am a Full-Stack Junior Developer currently working in the Natural History Museum.  I have always been interested in how things work and this led me to pursue a degree and masters in biological sciences as I was fascinated by why and how the body functioned.  I was always the person asking a lot of questions and this didn't change when I worked in IT & Telecoms, where I became very interested in how the applications were made and how they worked.
 I became enamoured by the technology industry, and my interest in building products flourished throughout my time there.
 
-I would love to use my newly found skills after [Makers Academy](http://www.makersacademy.com/) to explore and build innovative products and applications, as well constantly evolving and learning as a programmer by challenging me to resolve new issues.
+I would love to use my newly found skills after [Makers Academy](http://www.makersacademy.com/) and the [Natural History Museum](http://www.nhm.ac.uk/) to explore and build innovative products and applications, as well constantly evolving and learning as a programmer by challenging me to resolve new issues.
 
 ## Projects
 
@@ -23,6 +23,7 @@ For a complete list, see my [GitHub](https://github.com/jjadeseravla)
 #### Learning
 
 Whether it has been in an academic sense or learning a new activity I have always enjoyed increasing my knowledge and skills. In my role as a brand ambassador I would research and study the material I was given and have to know everything about the product or service I was promoting in a short space of time.  
+In my latest role in the museum I was put on a project to build a fully functioning chatbot within my first 3 months of the role, where I had to learn new technologies that no other developer had previously had experience in within a short space of time.
 
 #### Working in a team
 
@@ -49,9 +50,9 @@ Fluent English and Spanish, moderate German and a little Greek.
 - Pair Programmer and problem-solver
 - Object Oriented Design and Test Driven Development
 - Software Craftsmanship and Agile Methodologies
-- Ruby, Rails, Sinatra, JavaScript, Node.js, React.js, React Native, Bootstrap, jQuery, HTML, CSS
-- PostgreSQL, Realm
-- Rspec, Jasmine, Jest, Enzyme, Capybara, Chai, Cavy testing systems
+- Ruby, Rails, Sinatra, JavaScript, Node.js, React.js, React Native, Bootstrap, jQuery, HTML5, CSS3
+- PostgreSQL, MongoBD
+- Rspec, Jasmine, Jest, Mocha, Enzyme, Capybara, Chai, Cavy testing systems
 
 **Kings College University** (September 2013 to January 2015)
 
@@ -76,6 +77,15 @@ Fluent English and Spanish, moderate German and a little Greek.
 - GCSE's [7A*, 5A & 1B] including ICT, English, Mathematics and Sciences.
 
 ## Experience
+
+**Natural History Museum** (September 2017 - present)
+*Junior Software Developer*
+
+- Working in the Visit team within the Digital Media & Marketing Department to increase views within the website, app or exhibitions; by creating compelling digital products such as interactives, games and incorporating different functionality to significantly grow the number of people engaging with the Museum and its work. Thus providing exceptional online experiences for everyone from those curious about nature to professional scientists.
+- Maintenance of the website and fixing bugs on AEM.
+- Collaborating with other devs, UX and visual designers, Product and Content managers and Platform Engineers in the Technology Solutions Department to explore different ideas from the team on how to engage users online by creating Proof of Concepts(POCs).
+- Working in an Agile environment by having regular stand-ups, pair-programming and code reviews.
+- Tech stack is predominantly Vanilla JavaScript, React.js, JQuery, HTML5, CSS3 and SASS, Node.js, Express and MongoDB.
 
 **Broadsoft** (May 2015 to March 2017)    
 *Channel Account Manager*  
